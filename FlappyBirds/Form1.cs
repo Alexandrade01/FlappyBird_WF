@@ -16,6 +16,8 @@ namespace FlappyBirds
         int PipeSpeed = 8;
         int Gravity = 5;
         int Score = 0;
+
+
         public Form1()
         {
             InitializeComponent();
